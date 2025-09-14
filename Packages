@@ -1,0 +1,17 @@
+﻿Package: com.example.blankwhiteapp
+Version: 1.0.0
+Architecture: iphoneos-arm
+Installed-Size: 1024
+Filename: debs/com.example.blankwhiteapp_1.0.0_iphoneos-arm.deb
+Size: 1436
+MD5sum: @{Algorithm=MD5; Hash=E99F6EE8C1C9F1020DE8385696EE9E36; Path=C:\Users\wuuii\Desktop\my-cydia-repo\debs\repo\debs\com.example.blankwhiteapp_1.0.0_iphoneos-arm.deb}.Hash.ToLower()
+SHA1: @{Algorithm=SHA1; Hash=1005717A3A00D8CCB215426BBB0777425A278FE5; Path=C:\Users\wuuii\Desktop\my-cydia-repo\debs\repo\debs\com.example.blankwhiteapp_1.0.0_iphoneos-arm.deb}.Hash.ToLower()
+SHA256: @{Algorithm=SHA256; Hash=11392D176819EE209CD072974DFDF7939A0C821D6D30448FA1678928DDC839B2; Path=C:\Users\wuuii\Desktop\my-cydia-repo\debs\repo\debs\com.example.blankwhiteapp_1.0.0_iphoneos-arm.deb}.Hash.ToLower()
+Description: A simple blank white iOS app for iPhone 6 running iOS 12.5.7
+Maintainer: Your Name <your.email@example.com>
+Author: Your Name
+Section: Applications
+Depends: mobilesubstrate
+Priority: optional
+Homepage: https://github.com/yourusername/your-repo
+
